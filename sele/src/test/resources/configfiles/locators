@@ -1,0 +1,9 @@
+Company_Id=companyId
+Contact_Id=contactId
+Email=contactEmail
+Main_Contact=mainContact
+Site_Contact=siteContact
+Permissions_Authoriser=permisisonsAuthoriser
+Quotes_Authoriser=quotesAuthoriser
+save=btn btn-primary
+
