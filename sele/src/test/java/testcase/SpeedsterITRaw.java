@@ -18,6 +18,7 @@ public class SpeedsterITRaw extends BaseTestCase {
 	Thread.sleep(1000);
 	driver.findElement(By.id(l.getProperty("Main_Contact"))).sendKeys(mainContact);
 	Thread.sleep(1000);
+	//hello 
 	
 	driver.findElement(By.id(l.getProperty("Site_Contact"))).sendKeys(siteContact);
 	Thread.sleep(1000);
